@@ -1,4 +1,4 @@
-
+# Full Stack Development with AWS
 •	Experiences and Strengths  
 &emsp;o	What skills have you learned, developed, or mastered in this course to help you become a more marketable candidate in your career field?  
 &emsp;o	Describe your strengths as a software developer.  
